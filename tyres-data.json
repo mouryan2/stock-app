@@ -1,0 +1,48 @@
+{
+    "tyres" :[
+       
+        {
+           "stockQuantity":4,
+           "description":"HILO ",
+           "unitPrice":99
+        },
+        {
+            "stockQuantity":5,
+            "description":"82T",
+            "unitPrice":89
+         },
+         {
+            "stockQuantity":173,
+            "description":"82T",
+            "unitPrice":"23"
+         },
+         {
+            "stockQuantity":17513,
+            "description":"82T",
+            "unitPrice":34
+         },
+         
+        {
+            "stockQuantity":4,
+            "description":"HILO ",
+            "unitPrice":99
+         },
+         {
+             "stockQuantity":5,
+             "description":"82T",
+             "unitPrice":89
+          },
+          {
+             "stockQuantity":173,
+             "description":"82T",
+             "unitPrice":23
+          },
+          {
+             "stockQuantity":17513,
+             "description":"82T",
+             "unitPrice":34
+          }
+
+
+    ]
+}
